@@ -15,3 +15,5 @@ Este diretório contém scripts desenvolvidos para automação e manutenção de
 Antes de rodar os scripts, ajuste a política de execução do PowerShell:
 ```powershell
 Set-ExecutionPolicy RemoteSigned
+
+⚠ Importante: Teste sempre em ambiente de homologação antes de aplicar em produção.
