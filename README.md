@@ -13,6 +13,9 @@ O objetivo é automatizar tarefas, otimizar processos e garantir conformidade co
 ---
 
 ## ✅ Como usar
+Executar scripts PowerShell:
+Antes de rodar, ajuste a política de execução:
+
 
 ### Clonar o repositório:
 ```bash
