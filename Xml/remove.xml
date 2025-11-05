@@ -1,0 +1,6 @@
+<Configuration>
+  <Remove>
+    <Product ID="O365ProPlusRetail" />
+  </Remove>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
